@@ -13,5 +13,5 @@ Copyright (c) 2009-2011 by Accademia di Belle Arti di Urbino and students of MA 
 Copyright (c) 2009-2011 by Accademia di Belle Arti di Urbino and students of MA course of Visual design. Some rights reserved.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is copied into [SIL Open Font License.txt], and is also available with a FAQ at:
+This license is copied into [SIL Open Font License.txt](SIL%20Open%20Font%20License.txt), and is also available with a FAQ at:
 http://scripts.sil.org/OFL
